@@ -5,7 +5,7 @@ permalink: day-7
 title: Lifecycle Hooks
 description: >-
   <blockquote class="warning"> <b>NOTE</b>: This post is about <em>classic</em> React Lifecycle hooks.<br/> If you're looking to learn about the <a href="https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react/"><b>new Hooks API</b> then click here</a> </blockquote> Today, we'll look through a few of the most common lifecycle hooks we can use
-  with React components and we'll discuss why they are useful and when we should each one.
+  with React components and we'll discuss why they are useful and when we should use each one.
 dayDir: "07"
 day: 7
 hero_image: /assets/images/series/30-days-of-react/headings/7.jpg
